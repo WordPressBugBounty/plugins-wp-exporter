@@ -1,7 +1,7 @@
 === Custom Post Exporter ===
 Contributors: zourbuth
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6D3WAJTVKAFC
-Tags: export, exporter, import, importer, xml, rss, wxr, posts, pages, media, attachment, comments, custom fields, categories, tags, terms, author
+Tags: export, import, xml, post, page
 Requires at least: 6.0
 Tested up to: 6.6
 Stable tag: 1.0.0
